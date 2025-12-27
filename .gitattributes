@@ -1,0 +1,7 @@
+cmd export-ignore
+tests/ export-ignore
+.php_cs_fixer.php export-ignore
+.phpstan.neon export-ignore
+phpstan.neon export-ignore
+phpunit.xml export-ignore
+rector.php export-ignore
