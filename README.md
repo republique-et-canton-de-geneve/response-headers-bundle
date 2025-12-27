@@ -111,5 +111,14 @@ composer require republique-et-canton-de-geneve/response-headers-bundle
 
 
 License
-Released under the MIT License
+Released under the Apache-2.0 license
 
+## Quality and test code
+Code coverage :
+![coverage line](https://raw.githubusercontent.com/republique-et-canton-de-geneve/response-headers-bundle/refs/heads/main/coverage_line.svg)
+![coverage branche](https://raw.githubusercontent.com/republique-et-canton-de-geneve/response-headers-bundle/refs/heads/main/coverage_branch.svg)
+
+[![phpunit](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/phpunit.yml/badge.svg)](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/phpunit.yml)
+[![phpstan](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/phpstan.yml/badge.svg)](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/phpstan.yml)
+[![rector](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/rector.yml/badge.svg)](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/rector.yml)
+[![php-cs-fixer](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/php-cs-fixer.yml/badge.svg)](https://github.com/republique-et-canton-de-geneve/response-headers-bundle/actions/workflows/php-cs-fixer.yml)
