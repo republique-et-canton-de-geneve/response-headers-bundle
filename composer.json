@@ -1,6 +1,6 @@
 {
     "name": "republique-et-canton-de-geneve/response-headers-bundle",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "A Symfony bundle to easily send headers in your HTTP response",
     "type": "symfony-bundle",
     "require": {
