@@ -2,6 +2,8 @@
 
 A Symfony bundle to easily send headers in your HTTP response
 
+For Symfony 6.4, symfony 7.x, 8.x
+
 ### Usage
 You define one or more headers response in your yaml configuration, for exemple:
 
@@ -105,6 +107,7 @@ The bundle should be automatically enabled by Symfony Flex. If you don't use Fle
 
 
 ```
+composer config extra.symfony.allow-contrib true
 composer require republique-et-canton-de-geneve/response-headers-bundle
 ```
 
