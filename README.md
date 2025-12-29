@@ -2,7 +2,7 @@
 
 A Symfony bundle to easily send headers in your HTTP response
 
-For Symfony 6.4, symfony 7.x, 8.x
+For Symfony 5,4, 6.4, 7.x, 8.x
 
 ### Usage
 You define one or more headers response in your yaml configuration, for exemple:

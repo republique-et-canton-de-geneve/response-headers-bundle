@@ -1,20 +1,19 @@
 {
     "name": "republique-et-canton-de-geneve/response-headers-bundle",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A Symfony bundle to easily send headers in your HTTP response",
     "type": "symfony-bundle",
     "require": {
         "php": ">=7.4",
-        "symfony/dependency-injection": ">=6.4",
-        "symfony/http-kernel": ">=6.4",
-        "symfony/config": ">=6.4",
-        "symfony/expression-language": ">=6.4"
+        "symfony/dependency-injection": ">=5.4",
+        "symfony/http-kernel": ">=5.4",
+        "symfony/config": ">=5.4",
+        "symfony/expression-language": ">=5.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^12.4",
-        "ekino/phpstan-banned-code": "^3.0",
-        "phpstan/extension-installer": "^1.4",
-        "phpstan/phpstan": "^2.1",
+        "phpunit/phpunit": "*",
+        "phpstan/extension-installer": "*",
+        "phpstan/phpstan": "*",
         "friendsofphp/php-cs-fixer": "^3.49",
         "rector/rector": "^2.0.11"
     },
